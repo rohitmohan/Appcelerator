@@ -1,0 +1,12 @@
+Tabs and TabGroup from external files
+------------------------------------
+
+Orgainising files in titanium can be hard.
+
+This is a simple demo to keep app.js clean. 
+
+Call Tabs from you views directory.
+
+Screen shot is attached in resources folder
+
+RM.
